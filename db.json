@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 356,
+      "text": "Take out the garbage",
+      "date": "6th Feb 2023",
+      "reminder": true
+    },
+    {
+      "id": 257,
+      "text": "Buy groceries",
+      "date": "6th Feb 2023",
+      "reminder": false
+    },
+    {
+      "text": "Go Shopping",
+      "date": "3/4/2012 12.00AM",
+      "reminder": true,
+      "id": 357
+    }
+  ]
+}
